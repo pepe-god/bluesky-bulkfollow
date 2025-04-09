@@ -38,7 +38,7 @@ python script_adi.py
 - **App Password kullanın** - Normal şifreniz değil!
 - **Rate Limit** - Bluesky'nin [rate limit kurallarına](https://docs.bsky.app/docs/advanced-guides/rate-limits) uyun
 - **Makul kullanım** - Aşırı takip işlemi hesabınızın askıya alınmasına neden olabilir
-- **Güvenlik** - `.env` dosyanızı paylaşmayın/gitignore'a ekleyin
+- **Güvenlik** - `.env` dosyanızı paylaşmayın!
 
 ## 📊 Çıktı Örneği
 
